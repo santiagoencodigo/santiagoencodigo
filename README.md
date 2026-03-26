@@ -19,7 +19,7 @@ I would like to create my page like a portfolio with many things of my life, but
 
 <div align="center"> 
      <a href="https://santiagoencodigo.github.io/Guia-Completa-de-Analisis-y-Desarrollo-de-Software/">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=santiagoencodigo&show_icons=true&include_all_commits=true&count_private=true&theme=graywhite&line_height=40" />
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=santiagoencodigo&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark_dimmed&line_height=40" />
     </a>
 </div>
 
