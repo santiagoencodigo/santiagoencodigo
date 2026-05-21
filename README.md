@@ -7,10 +7,6 @@
  
 ---
  
-> Building every day. Writing every day.
- 
----
- 
 ### S t a c k
  
 <p align="left">
