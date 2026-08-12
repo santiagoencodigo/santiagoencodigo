@@ -29,6 +29,6 @@
 
 <div align="center">
   <a href="https://santiagoencodigo.github.io/analisis-y-desarrollo-de-software/">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=santiagoencodigo&show_icons=true&include_all_commits=true&count_private=true&theme=graywhite&line_height=40" />
+    [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/santiagoencodigo?cardType=github&theme=github-dark&fontFamily=Abhaya%20Libre&preferLogin=true)](https://git.io/awesome-stats-card)
   </a>
 </div>
