@@ -28,7 +28,7 @@
 ---
 
 <div align="center">
-  <a href="https://santiagoencodigo.github.io/analisis-y-desarrollo-de-software/">
-    [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/santiagoencodigo?cardType=github&theme=github-dark&fontFamily=Abhaya%20Libre&preferLogin=true)](https://git.io/awesome-stats-card)
-  </a>
+  
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/santiagoencodigo?cardType=github&theme=github-dark&fontFamily=Abhaya%20Libre&preferLogin=true)](https://git.io/awesome-stats-card)
+    
 </div>
