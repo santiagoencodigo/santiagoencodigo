@@ -1,8 +1,11 @@
 name: Update README
 
+permissions:
+  contents: write
+
 on:
   schedule:
-    - cron: "0 */12 * * *"   # Cada 12 horas (00:00 y 12:00)
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -11,9 +14,7 @@ jobs:
     name: Update Profile README
     steps:
       - uses: actions/checkout@v4
-
-      - name: Update README with readme-engine
-        uses: thisisrick25/readme-engine@v2
+      - uses: thisisrick25/readme-engine@v2
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PLUGINS: prs
