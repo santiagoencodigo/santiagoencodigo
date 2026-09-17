@@ -17,11 +17,10 @@
  
 ---
 
-### :zap: Actividad reciente
+### Actividad reciente
 
-<!-- PRS:START -->
-<!-- Este contenido será reemplazado por el plugin `prs` -->
-<!-- PRS:END -->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
  
