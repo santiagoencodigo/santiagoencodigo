@@ -15,12 +15,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: TheDanniCraft/activity-log@v1
         with:
+          GITHUB_USERNAME: santiagoencodigo
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
           MAX_LINES: 5
+          EVENT_TYPE: "commit"
           COMMIT_MSG: "⚡ Update README with recent commits"
-          FILTER_EVENTS: "PushEvent"
           COMMIT_NAME: "santiagoencodigo"
           COMMIT_EMAIL: "159667940+santiagoencodigo@users.noreply.github.com"
