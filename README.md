@@ -20,7 +20,7 @@
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
 
-<!--RECENT_ACTIVITY:last_update-->![image](https://github.com/user-attachments/assets/744bd141-78dd-4e30-ad95-94fa3ba6761b)
+<!--RECENT_ACTIVITY:last_update-->
 
 ---
  
