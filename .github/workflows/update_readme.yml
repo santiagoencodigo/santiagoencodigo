@@ -6,8 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
-    name: Update Profile README with commits
+  update-activity:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -15,12 +14,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: TheDanniCraft/activity-log@v1
+      - name: Update GitHub Activity
+        uses: TheDanniCraft/activity-log@v1
         with:
-          GITHUB_USERNAME: santiagoencodigo
+          GITHUB_USERNAME: "santiagoencodigo"
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
-          MAX_LINES: 5
-          EVENT_TYPE: "commit"
-          COMMIT_MSG: "⚡ Update README with recent commits"
-          COMMIT_NAME: "santiagoencodigo"
-          COMMIT_EMAIL: "159667940+santiagoencodigo@users.noreply.github.com"
+          EVENT_LIMIT: 5
+          COMMIT_MESSAGE: "⚡ Update README with recent commits"
+          IGNORE_EVENTS: '["CreateEvent", "IssuesEvent", "PullRequestEvent", "ReleaseEvent", "ForkEvent", "CommitCommentEvent", "IssueCommentEvent", "PullRequestReviewEvent", "PullRequestReviewCommentEvent", "RepositoryEvent", "WatchEvent", "StarEvent", "PublicEvent", "GollumEvent", "SponsorshipEvent"]'
