@@ -18,9 +18,10 @@
 ---
 
 ### :zap: Actividad reciente
-<!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
+<!-- PRS:START -->
+<!-- Este contenido será reemplazado por el plugin `prs` -->
+<!-- PRS:END -->
 
 ---
  
