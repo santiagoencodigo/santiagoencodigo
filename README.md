@@ -18,9 +18,9 @@
 ---
 
 ### :zap: Actividad reciente
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:last_update-->![image](https://github.com/user-attachments/assets/744bd141-78dd-4e30-ad95-94fa3ba6761b)
 
 ---
  
