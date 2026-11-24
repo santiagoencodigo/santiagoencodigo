@@ -37,11 +37,11 @@
 ### Actividad reciente
 
 <!--START_SECTION:activity-->
-1. 📝 Committed to main in [EddierPaz/OperPan-Backend](https://github.com/EddierPaz/OperPan-Backend/commit/62814784b1ac383a7c10d17aaf9925993aa14417)
-2. 📝 Committed to main in [EddierPaz/OperPan-Backend](https://github.com/EddierPaz/OperPan-Backend/commit/41d0a701582fc617f5d326e055d7b922ff278aff)
-3. 📝 Committed to main in [santiagoencodigo/analisis-y-desarrollo-de-software](https://github.com/santiagoencodigo/analisis-y-desarrollo-de-software/commit/2dac549d13ac5e69354c1c83d5e94245b65e760a)
-4. 📝 Committed to main in [EddierPaz/OperPan-Backend](https://github.com/EddierPaz/OperPan-Backend/commit/4c7ceea04237a5a0745a4c994ab6787b8327327b)
-5. 📝 Committed to main in [santiagoencodigo/santiagoencodigo](https://github.com/santiagoencodigo/santiagoencodigo/commit/437daa22a3601bf4a6bd0a41e59cb40d5aac9668)
+1. 📝 Committed to main in [santiagoencodigo/desarrollo-web-profesional](https://github.com/santiagoencodigo/desarrollo-web-profesional/commit/86a455e2a826acde2b39cca08f3369d5008a5c78)
+2. 📝 Committed to main in [EddierPaz/OperPan-Backend](https://github.com/EddierPaz/OperPan-Backend/commit/62814784b1ac383a7c10d17aaf9925993aa14417)
+3. 📝 Committed to main in [EddierPaz/OperPan-Backend](https://github.com/EddierPaz/OperPan-Backend/commit/41d0a701582fc617f5d326e055d7b922ff278aff)
+4. 📝 Committed to main in [santiagoencodigo/analisis-y-desarrollo-de-software](https://github.com/santiagoencodigo/analisis-y-desarrollo-de-software/commit/2dac549d13ac5e69354c1c83d5e94245b65e760a)
+5. 📝 Committed to main in [EddierPaz/OperPan-Backend](https://github.com/EddierPaz/OperPan-Backend/commit/4c7ceea04237a5a0745a4c994ab6787b8327327b)
 <!--END_SECTION:activity-->
 
 ---
