@@ -5,7 +5,7 @@
 </p>
 
 <h4 align="center">🦞 → <a href="https://santiagoencodigo.github.io/analisis-y-desarrollo-de-software/">santiagoencodigo.github.io/analisis-y-desarrollo-de-software/</a></h4>
-<h4 align="center">👾 → <a href="https://santiagoencodigo.github.io/desarrollo-web-profesional/">santiagoencodigo.github.io/desarrollo-web-profesional/</a></h4>
+<h4 align="center">👾 → <a href="https://santiagoencodigo.github.io/bitacora/">santiagoencodigo.github.io/bitacora/</a></h4>
 
 ---
 
