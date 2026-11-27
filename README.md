@@ -26,11 +26,8 @@
 
 **Aprendiendo:** `Django` · `Claude` &nbsp;|&nbsp; **Herramientas diarias:** `VS Code` · `Git Bash` · `Obsidian`
 
-<div align="center">
-  <a href="https://github.com/santiagoencodigo">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=santiagoencodigo&theme=github-dark&hide_border=true" alt="Gráfico de Actividad" />
-  </a>
-</div>
+
+[![santiagoencodigo's GitHub activity graph](https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=santiagoencodigo&theme=github-dark&area=true&hide_border=true)](https://github.com/santiagoencodigo)
 
 ---
 
